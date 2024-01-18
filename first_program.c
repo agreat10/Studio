@@ -3,7 +3,8 @@ int main()
 {
     int a = 10;
     int b = 20;
-    printf("%i", a+b);
+	int c = 30;
+    printf("%i", a+b+c);
 
 
 
